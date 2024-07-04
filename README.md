@@ -1,9 +1,11 @@
-# Laravel 5 & 6 , 7 & 9 Shopping Cart
+# Laravel 5 & 6 , 7 & 9 & 10 & 11 Shopping Cart
 [![Build Status](https://travis-ci.org/darryldecode/laravelshoppingcart.svg?branch=master)](https://travis-ci.org/darryldecode/laravelshoppingcart)
 [![Total Downloads](https://poser.pugx.org/darryldecode/cart/d/total.svg)](https://packagist.org/packages/darryldecode/cart)
 [![License](https://poser.pugx.org/darryldecode/cart/license.svg)](https://packagist.org/packages/darryldecode/cart)
 
 A Shopping Cart Implementation for Laravel Framework
+
+This is a fork of darryldecode/laravelshoppingcart. I will continue to maintain this package because I use it extensively in my own projects.
 
 ## QUICK PARTIAL DEMO
 
