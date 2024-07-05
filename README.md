@@ -19,8 +19,7 @@ Install the package through [Composer](http://getcomposer.org/).
 
 For Laravel 11:
 
-```composer require "AdrianMerkandi/laravelshoppingcart.git:~1.0"``` or 
-```composer require "AdrianMerkandi/laravelshoppingcart.git"```
+```composer require "adrianmerk/laravelshoppingcart:~1.0"```
 
 ## CONFIGURATION
 
